@@ -35,7 +35,7 @@ require (
 	github.com/minio/minio-go/v7 v7.0.5
 	github.com/mitchellh/go-wordwrap v1.0.0 // indirect
 	github.com/ory/dockertest/v3 v3.9.1
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/common v0.26.0
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/spf13/cobra v1.0.0
