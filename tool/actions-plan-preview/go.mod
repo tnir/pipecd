@@ -13,7 +13,7 @@ require (
 require (
 	github.com/coreos/go-oidc/v3 v3.21.0 // indirect
 	github.com/envoyproxy/protoc-gen-validate v1.3.3 // indirect
-	github.com/go-jose/go-jose/v4 v4.1.4 // indirect
+	github.com/go-jose/go-jose/v4 v4.1.6 // indirect
 	github.com/google/go-querystring v1.0.0 // indirect
 	github.com/shurcooL/graphql v0.0.0-20200928012149-18c5c3165e3a // indirect
 	go.yaml.in/yaml/v3 v3.0.5 // indirect
